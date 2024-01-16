@@ -1,7 +1,7 @@
 <h2>Meesaging APp using Socket IO and React js</h2>
 <h4>istance transer message from one end to other  </h4>
 
-<h2>Rund</h2>
+<h2>Run</h2>
 <h4>git clone  https://github.com/mdfarhan0203/messaging-app-socketIO-reactjs.git </h4>
 <h4>cd frontend</h4>
 <h4>cd backend  </h4>
